@@ -171,7 +171,7 @@
         sym_ru {
             display-name = "Symbols";
             bindings = <
-&trans  &kp DOLLAR   &en LT        &kp EQUAL     &en GT       &en GRAVE      &en SQT         &en LBRC  &kp UNDER    &kp RBRC  &kp CARET   &trans
+&trans  &en DOLLAR   &en LT        &kp EQUAL     &en GT       &en GRAVE      &en SQT         &en LBRC  &kp UNDER    &kp RBRC  &en CARET   &trans
 &trans  &kp RU_BSLH  &kp LPAR      &kp MINUS     &kp RPAR     &kp PLUS       &kp RU_PERCENT  &en LBKT  &kp RU_SEMI  &en RBKT  &kp EXCL    &trans
 &trans  &en HASH     &kp RU_ASTRK  &kp RU_COLON  &kp RU_FSLH  &en AT_SIGN    &kp RU_DQT      &en PIPE  &en TILDE    &en AMPS  &kp RU_DOT  &trans
                                    &layer_en     &layer_ru    &mo 5          &trans          &trans    &trans
