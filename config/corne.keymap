@@ -105,7 +105,6 @@
                 <&macro_release>,
                 <&macro_param_1to1 &kp MACRO_PLACEHOLDER>,
                 <&macro_tap>,
-                <&macro_wait_time 150>,
                 <&to_ru>;
 
             label = "EN";
